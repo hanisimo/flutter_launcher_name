@@ -5,7 +5,9 @@ If you user this package, You don't need modify AndroidManifest.xml or Info.plis
 
 
 ## :sparkles: What's New
-
+- Null Safety Support.
+- Update the yaml package to version ^3.1.0  …
+- Update the package version to 0.0.3
 
 ## :book: Guide
 
